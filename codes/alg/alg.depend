@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1375260452 source:d:\review\github\codes\alg\main.cpp
+	<iostream>
+	<vector>
+	<functional>
+	<algorithm>
+	"sort.hpp"
+
+1375260463 d:\review\github\codes\sort\sort.hpp
+	<algorithm>
+
